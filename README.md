@@ -1,2 +1,2 @@
 # SuperMarioBros-ReinforcementLearning
-Creating agent that can play SuperMarioBros using stablebaselines3.
+Creating agent that can play SuperMarioBros using PPO from stablebaselines3.
